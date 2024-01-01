@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![An image of @tanmayrainanda's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanmayrainanda)](https://holopin.io/@tanmayrainanda)
+
+- 🌱 I’m currently learning CV and NLP
+- 📫 How to reach me: tanmaynanda360@gmail.com
+- 😄 Pronouns: he/him

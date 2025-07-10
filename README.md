@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi
 
 <!--
 **tanmayrainanda/tanmayrainanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- End to End real-time AI systems
-- reach me at: tanmaynanda360@gmail.com
+- Currently building End to End real-time AI systems
+- Reach me at: tanmaynanda360@gmail.com
 - Pronouns: he/him

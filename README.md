@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m researching real-time computer vision in drones for crop disease detection
-- 📫 How to reach me: tanmaynanda360@gmail.com
-- 😄 Pronouns: he/him
+- End to End real-time AI systems
+- reach me at: tanmaynanda360@gmail.com
+- Pronouns: he/him
